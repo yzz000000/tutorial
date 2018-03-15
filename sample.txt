@@ -5,3 +5,6 @@ pull 取得远端数据库的内容
 dev 添加内容
 test in tutorial2
 test fetch
+test edit
+test edit2
+test edit3
